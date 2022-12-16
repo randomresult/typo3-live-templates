@@ -1,0 +1,1 @@
+rootProject.name = "typo3-live-templates"
